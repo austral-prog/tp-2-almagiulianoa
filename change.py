@@ -15,3 +15,4 @@ def change():
     centavos = (change-int(change))*(int(money))
     print (f"Centavos:")
     print (int(centavos))
+change()
